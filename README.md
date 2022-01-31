@@ -6,11 +6,11 @@
 
 ## 🛠️ &nbsp; Tech Stack 
 
+![React](https://img.shields.io/badge/React-05122a?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122a?style=flat&logo=javascript)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.Js-05122a?style=flat&logo=node.js)&nbsp;
 ![HMTL5](https://img.shields.io/badge/HTML5-05122a?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-05122a?style=flat&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/React-05122a?style=flat&logo=react)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122a?style=flat&logo=github)&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-05122a?style=flat&logo=mongodb)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-05122a?style=flat&logo=postgresql)&nbsp;
