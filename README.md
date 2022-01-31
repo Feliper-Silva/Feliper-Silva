@@ -4,8 +4,6 @@
 - 🔥 Web Developer
 - 📚 I’m currently learning  ReactJs & NodeJs
 
-<br><br>
-
 ## 🛠️ &nbsp; Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122a?style=flat&logo=javascript)&nbsp;
