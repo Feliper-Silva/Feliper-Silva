@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Feliper-Silva
-- 👀 I’m interested in aprender a ser um desenvolvedor full stack
-- 🌱 I’m currently learning  javaScript, HTML & CSS.
-- 💞️ I’m looking to collaborate on  projetos que possam aprimorar meu conhecimento na area.
-- 📫 How to reach me  e-mail: Felipe726silva@gmail.com 
 
-<!---
-Feliper-Silva/Feliper-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="profile views"  width="40px" /> Hi, I'm Felipe Silva </h1>
+
+- 🔥 Web Developer
+- 📚 I’m currently learning  ReactJs & NodeJs
+
+<br><br>
+
+## 🛠️ &nbsp; Tech Stack 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-05122a?style=flat&logo=javascript)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.Js-05122a?style=flat&logo=node.js)&nbsp;
+![HMTL5](https://img.shields.io/badge/HTML5-05122a?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-05122a?style=flat&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/React-05122a?style=flat&logo=react)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122a?style=flat&logo=github)&nbsp;
+![Mongo](https://img.shields.io/badge/MongoDB-05122a?style=flat&logo=mongodb)&nbsp;
+![Postgres](https://img.shields.io/badge/PostgreSQL-05122a?style=flat&logo=postgresql)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Feliper-silva&theme=tokyonight&show_icons=true" alt="GitHub Felipe Stats" />
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliper-silva&layout=compact&theme=tokyonight" alt="Felipe most Languages" />
+ </p>
+ 
+ <!--
+ ## 🧔‍♂️ &nbsp; Social Links
+ 
+![Linkedin](https://img.shields.io/badge/Linkedin-05122a?style=flat&logo=linkedin)&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-05122a?style=flat&logo=linkedin)&nbsp;
+-->
