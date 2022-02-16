@@ -20,7 +20,7 @@
 <p align="left">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Feliper-silva&theme=tokyonight&show_icons=true" alt="GitHub Felipe Stats" />
  </p>
- <p align="rigth">
+ <p align="right">
 <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliper-silva&layout=compact&theme=tokyonight" alt="Felipe most Languages" /> 
 </p>
  
