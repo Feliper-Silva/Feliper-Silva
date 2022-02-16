@@ -18,11 +18,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Feliper-silva&theme=tokyonight&show_icons=true" alt="GitHub Felipe Stats" />
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Feliper-silva&theme=tokyonight&show_icons=true" alt="GitHub Felipe Stats" />
+ <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliper-silva&layout=compact&theme=tokyonight" alt="Felipe most Languages" /> 
  </p>
- <p align="right">
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliper-silva&layout=compact&theme=tokyonight" alt="Felipe most Languages" /> 
-</p>
  
  <!--
  ## 🧔‍♂️ &nbsp; Social Links
